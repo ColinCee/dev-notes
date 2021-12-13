@@ -13,13 +13,13 @@ A quick cheatsheet for the vim commands I have Used
 - yy/Y - copy current line
 - p - paste *after* current line
 - P - paste *before* current line
-- m(a) - mark the current line with (a)
+- maa - mark the current line with a
 
 ### Deletion
 - dd - deletes current line
 - daw - delete the word under cursor
 - caw - same as daw but places you into insert mode
-- d'(a) - deletes from mark start to current line
+- d'a - deletes from mark start to current line
 
 ### Navigation
 - gg - jump to start of file
